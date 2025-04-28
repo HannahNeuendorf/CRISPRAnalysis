@@ -4,9 +4,7 @@ Created on Fri Sep  9 14:16:19 2022
 
 @author: hannahN
 """
-## This script must be run in Python 3.9 - use anaconda Base environment ##
-##L:Lab_GlenB\Hannah\CRISPR\AnalysisPipeline\ScreenProcessing-master\SequencingData\MM253\process_experiments
-##L:Lab_GlenB\Hannah\CRISPR\AnalysisPipeline\ScreenProcessing-master\SequencingData\20220815_NovaSeq_370_576_CRISPRa\process_experiments\MM370_output2 or MM576_output2
+## This script must be run in Python 3.9  ##
 
 import numpy as np
 import pandas as pd
